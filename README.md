@@ -1,2 +1,2 @@
-# USM-F.github.io
+# USM-F.github.io/starwars
 Project hosting
